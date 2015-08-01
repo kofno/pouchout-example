@@ -1,4 +1,6 @@
-pouchdb-getting-started-todo
+Pouchout
 ============================
 
-The source repository for the getting started tutorial for PouchDB
+Rewrite of the getting started tutorial for Pouchdb. Uses knockout.js instead
+of vanilla javascript for the UI.
+
